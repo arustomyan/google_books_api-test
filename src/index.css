@@ -1,0 +1,28 @@
+* {
+  padding: 0;
+  margin: 0;
+  border: none;
+  box-sizing: border-box;
+  font-size: 16px;
+  font-family: "Nunito", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: inherit;
+  font-weight: inherit;
+  line-height: inherit;
+}
+
+input {
+  display: block;
+}
+
+#root {
+  /*background-color: tomato;*/
+  height: 100vh;
+}

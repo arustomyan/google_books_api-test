@@ -1,0 +1,16 @@
+.Header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  height: 300px;
+  background-color: #4d4d4d;
+}
+.Header-label {
+  font-size: 72px;
+  font-weight: 700;
+  color: #fff;
+}
+
+.Container {
+}
