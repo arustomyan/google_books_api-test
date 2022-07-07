@@ -1,4 +1,4 @@
-.Header {
+.component {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -6,11 +6,9 @@
   height: 300px;
   background-color: #4d4d4d;
 }
-.Header-label {
+
+.label {
   font-size: 72px;
   font-weight: 700;
   color: #fff;
-}
-
-.Container {
 }

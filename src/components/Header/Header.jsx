@@ -5,11 +5,11 @@ import SearchForm from "../shared/SearchForm/SearchForm";
 
 function Header() {
   return (
-    <header className={style["Header"]}>
-      <h1 className={style["Header-label"]}>Search for books</h1>
+    <header className={style.component}>
+      <h1 className={style.label}>Search for books</h1>
       <SearchForm />
 
-      <div className={style["Container"]}>
+      <div>
         <SortingSelect>
           <option value="1">1</option>
           <option value="2">2</option>
