@@ -1,0 +1,1686 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 478,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "fsJSEAAAQBAJ",
+      "etag": "0QQzgE37Rvo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fsJSEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Шаблоны проектирования Node.js",
+        "authors": ["Марио Каскиаро", "Лучано Маммино"],
+        "publisher": "Litres",
+        "publishedDate": "2022-01-12",
+        "description": "Node.js – программная платформа, позволяющая легко и просто создавать масштабируемые серверные приложения на языке JаvаScript.В книге описаны асинхронная, однопоточная архитектура платформы, а также шаблоны асинхронного управления потоком выполнения и потоками данных. Рассмотрен подробный список реализаций распространенных, а также некоторых уникальных шаблонов проектирования в Node.js.Издание адресовано разработчикам и архитекторам программного обеспечения, обладающим основными навыками владения JavaScript и желающим получить глубокое понимание, как проектируются и разрабатываются приложения уровня предприятия на основе Node.js.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785040915699"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5040915691"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fsJSEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fsJSEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=fsJSEAAAQBAJ&pg=PA16&dq=js&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=fsJSEAAAQBAJ&dq=js&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD.html?hl=&id=fsJSEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD-sample-pdf.acsm?id=fsJSEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fsJSEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "армейского ножа» из готовых к использованию шаблонов, для эффективного решения повседневных задач разработки и проектирования; ❍ порядок написания эффективных модульных приложений для Node.<b>js</b>: понимание основных строительных блоков и&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ef4-EAAAQBAJ",
+      "etag": "UAJxTxPhyLY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ef4-EAAAQBAJ",
+      "volumeInfo": {
+        "title": "JavaScript для глубокого обучения: TensorFlow.js",
+        "authors": ["Шолле Франсуа", "Нильсон Эрик", "Байлесчи Стэн"],
+        "publisher": "\"Издательский дом \"\"Питер\"\"\"",
+        "publishedDate": "2021-06-01",
+        "description": "Пора научиться использовать TensorFlow.js для построения моделей глубокого обучения, работающих непосредственно в браузере! Умные веб-приложения захватили мир, а реализовать их в браузере или серверной части позволяет TensorFlow.js. Данная библиотека блестяще портируется, ее модели работают везде, где работает JavaScript. Специалисты из Google Brain создали книгу, которая поможет решать реальные прикладные задачи. Вы не будете скучать над теорией, а сразу освоите базу глубокого обучения и познакомитесь с продвинутыми концепциями ИИ на примерах анализа текста, обработки речи, распознавания образов и самообучающегося игрового искусственного интеллекта.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785446116973"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5446116976"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ef4-EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ef4-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=Ef4-EAAAQBAJ&pg=PA57&dq=js&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Ef4-EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Ef4-EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2499,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 2499,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Ef4-EAAAQBAJ&rdid=book-Ef4-EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2499000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 2499000000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/JavaScript_%D0%B4%D0%BB%D1%8F_%D0%B3%D0%BB%D1%83%D0%B1%D0%BE%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BE-sample-epub.acsm?id=Ef4-EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/JavaScript_%D0%B4%D0%BB%D1%8F_%D0%B3%D0%BB%D1%83%D0%B1%D0%BE%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BE-sample-pdf.acsm?id=Ef4-EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ef4-EAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Создали модель TensorFlow.<b>js</b> в браузере и хотите перенести ее в Keras для доступа к более быстрым аппаратным средствам вычислений, например TPU от Google? И это возможно! Тесная интеграция с фреймворками других языков, не <b>JavaScript</b>,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2zhwEAAAQBAJ",
+      "etag": "WRAmcw2kYZE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2zhwEAAAQBAJ",
+      "volumeInfo": {
+        "title": "JavaScript и Node.js для Web-разработчиков",
+        "publisher": "БХВ-Петербург",
+        "publishedDate": "2022",
+        "description": "Книга рассказывает о языке программирования JavaScript, разработке на нем как программ общего назначения, выполняющихся в среде Node.js, так и скриптов для веб-страниц. Даны основы JavaScript: типы данных, операторы, работа с числами, строками, датой и временем, массивами, функции, классы (как старого, так и нового синтаксиса), итераторы, генераторы и класс Promise. Объяснена работа с отладчиком, встроенным в редактор Visual Studio Code. Рассказано о модулях, средствах для работы с файловой системой и программирования веб-серверов. Описана объектная модель документа. Рассмотрены средства для работы с элементами веб-страницы, самой страницей и браузером и технология AJAX (в том числе Fetch API), а также готовые программные пакеты для разработки веб-сайтов, в частности Webpack. Электронный архив на сайте издательства содержит коды всех пронумерованных листингов",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785977568470"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5977568479"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 768,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2zhwEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2zhwEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=2zhwEAAAQBAJ&pg=PA464&dq=js&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2zhwEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2zhwEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1056,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 950.4,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=2zhwEAAAQBAJ&rdid=book-2zhwEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1056000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 950400000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/JavaScript_%D0%B8_Node_js_%D0%B4%D0%BB%D1%8F_Web_%D1%80%D0%B0%D0%B7-sample-pdf.acsm?id=2zhwEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2zhwEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "1 const path require ( &#39; path &#39; ) ; console.log ( &#39; cwd : + process.cwd ( ) ) ; console.log ( &#39; cwd : + path.resolve ( ) ) ; console.log ( path . resolve ( &#39; index.<b>js</b> &#39; ) ) ; Запустим программу из командной строки разными способами : C&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3s0eBQAAQBAJ",
+      "etag": "9q7hWgTBxM0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3s0eBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Node.js в действии",
+        "subtitle": "",
+        "authors": [
+          "Кантелон Майк",
+          "Хартер Марк",
+          "Головайчук TJ",
+          "Райлих Натан"
+        ],
+        "publisher": "\"Издательский дом \"\"Питер\"\"\"",
+        "publishedDate": "2014-09-02",
+        "description": "Эволюция JavaScript с каждым годом предоставляет веб-разработчикам все большее количество инноваций. Один из наиболее интересных и популярных инструментов для создания легко масштабируемых сетевых приложений является Node.js, основанный на движке V8 и превращающий JavaScript из узкоспециализированного языка в язык общего назначения. Node.js добавляет возможность JavaScript взаимодействовать с устройствами ввода-вывода через свой API (написанный на C++), подключать другие внешние библиотеки, написанные на разных языках, обеспечивая вызовы к ним из JavaScript-кода. Прежде всего, Node.js отличается от классического JavaScript тем, что исполняемый код выполняется на стороне сервера, а не на стороне браузера. Кроме того, Node.js вместо традиционного параллелизма на основе потоков предлагает асинхронный ввод-вывод, управляемый событиями. Производительность в такой системе гораздо выше, чем при использовании многопоточной модели. Node.js идеально подходит для веб-приложений, которые не выполняют сложных вычислений, но к которым происходят частые обращения: чтение дисков, подключение к базе данных, веб-сервисы. Цель данной книги — быстро овладеть основами Node.js, помочь вам начать разработку приложений и научить всему, что необходимо знать о «продвинутом» JavaScript.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785496010795"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5496010799"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3s0eBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3s0eBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=3s0eBQAAQBAJ&pg=PA209&dq=js&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=3s0eBQAAQBAJ&dq=js&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Node_js_%D0%B2_%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B8.html?hl=&id=3s0eBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Node_js_%D0%B2_%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B8-sample-pdf.acsm?id=3s0eBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3s0eBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "public/foo.<b>js</b> с вызовом console. log(&#39;tobi&#39;) и сгенерируйте запрос для сервера. Для этого используйте команду curl(1) с флагом -i, задающим печать HTTP-заголовков. Вы увидите, что поля HTTP-заголовка, связанные с кэшем,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iFcHCgAAQBAJ",
+      "etag": "rYfnIJhyP5o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iFcHCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Node.js. Путеводитель по технологии",
+        "authors": ["Кирилл Сухов"],
+        "publisher": "Litres",
+        "publishedDate": "2022-01-13",
+        "description": "За последние несколько лет платформа Node.js стремительно повысила свой статус от экспериментальной технологии до основы для серьезных промышленных проектов. Тысячи программистов оценили возможность построения достаточно сложных, высоко нагруженных приложений на простом, элегантном и, самое главное, легковесном механизме.Все эти скучные слова правдивы, но на самом деле не это главное. Прежде всего Node.js – это совершенно увлекательная и захватывающая вещь, с которой по-настоящему интересно работать!Есть одна проблема – невозможно рассказывать про использование Node.js в отрыве от остальных технологий современной веб-разработки (и Highload-разработки). Я и не стал этого делать, дав обзор инструментов, без которых сегодня трудно обойтись. Прежде всего это чудесный язык JavaScript, и в книге рассказано о новинках в его последней и будущей спецификациях (EcmaScript 5 и 6). Кроме того, дается краткое введение в большинство связанных веб-технологий – от NoSQL-хранилищ данных (Memcached, MongoDB, Redis) до CSS-препроцессоров и MVC JavaScript-фреймворков. Конечно, эту книгу нельзя рассматривать как полноценный учебник по MongoDB, LESS или EcmaScript 6, Dart или CoffeScript, но в ней дано основное представление об этих довольно интересных вещах, вполне достаточное для начала работы.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457834613"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457834611"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iFcHCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iFcHCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=iFcHCgAAQBAJ&pg=PA318&dq=js&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=iFcHCgAAQBAJ&dq=js&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Node_js_%D0%9F%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%BF%D0%BE_%D1%82.html?hl=&id=iFcHCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Node_js_%D0%9F%D1%83%D1%82%D0%B5%D0%B2%D0%BE%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C_%D0%BF%D0%BE_%D1%82-sample-pdf.acsm?id=iFcHCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iFcHCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "rs 10 Jul 13:20:05 - [nodemon] starting `node server.<b>js</b>` Если мы хотим отслеживать изменения во всех файлах приложения, то можно дать задание nodemon наблюдать за всеми файлами в указанной папке: $ nodemon --watch node node/server.<b>js</b> 9&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4bhLEAAAQBAJ",
+      "etag": "XvBF79hwiqo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4bhLEAAAQBAJ",
+      "volumeInfo": {
+        "title": "{Вы пока еще не знаете JS} Познакомьтесь, JavaScript. 2-е изд.",
+        "authors": ["Симпсон Кайл"],
+        "publisher": "\"Издательский дом \"\"Питер\"\"\"",
+        "publishedDate": "2021-08-10",
+        "description": "Вы пока еще не знаете JS. И Кайл Симпсон признается, что тоже его не знает (по крайней мере полностью)... И никто не знает. Но все мы можем начать работать над тем, чтобы узнать его лучше. Сколько бы времени вы ни провели за изучением языка, всегда можно найти что-то еще, что стоит изучить и понять на другом уровне. Учтите, что, хотя книга и называется «Познакомьтесь, JavaScript», она не для новичков. У нее другая задача: дать обзор тем, в которых необходимо разобраться на начальном этапе изучения JS. Даже если вы уже написали достаточно кода JS, эту книгу не стоит пропускать, возможно, в ваших знаниях есть пробелы, которые необходимо заполнить перед углубленным изучением сложных тем. Пора начать изучение JS!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785446118755"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5446118758"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4bhLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4bhLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=4bhLEAAAQBAJ&pg=PA35&dq=js&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4bhLEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4bhLEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 790,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 790,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=4bhLEAAAQBAJ&rdid=book-4bhLEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 790000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 790000000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%92%D1%8B_%D0%BF%D0%BE%D0%BA%D0%B0_%D0%B5%D1%89%D0%B5_%D0%BD%D0%B5_%D0%B7%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_J-sample-epub.acsm?id=4bhLEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%92%D1%8B_%D0%BF%D0%BE%D0%BA%D0%B0_%D0%B5%D1%89%D0%B5_%D0%BD%D0%B5_%D0%B7%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_J-sample-pdf.acsm?id=4bhLEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4bhLEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Разные среды <b>JS</b> (браузерные ядра <b>JS</b>, Node.<b>js</b> и т. д.) добавляют в глобальную область видимости ваших программ <b>JS</b> различные API, которые представляют функциональность, зависящую от среды, — например, возможность вывести диалоговое окно&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DQCfDwAAQBAJ",
+      "etag": "JIWu1YD1P8g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DQCfDwAAQBAJ",
+      "volumeInfo": {
+        "title": "{Вы не знаете JS} Асинхронная обработка и оптимизация",
+        "authors": ["Симпсон Кайл"],
+        "publisher": "\"Издательский дом \"\"Питер\"\"\"",
+        "publishedDate": "2019-05-13",
+        "description": "Каким бы опытом программирования на JavaScript вы ни обладали, скорее всего, вы не понимаете язык в полной мере. Это лаконичное, но при этом глубоко продуманное руководство посвящено новым асинхронным возможностям и средствам повышения производительности, которые позволяют создавать сложные одностраничные веб-приложения и избежать при этом «кошмара обратных вызовов». Как и в других книгах серии «Вы не знаете JS», вы познакомитесь с нетривиальными особенностями языка, которых так боятся программисты. Только вооружившись знаниями можно достичь истинного мастерства. В КНИГЕ РАССМАТРИВАЮТСЯ СЛЕДУЮЩИЕ ТЕМЫ: ∙ Старые и новые методы асинхронного программирования ∙ Использование обещаний JavaScript для решения проблемы «инверсии управления» ∙ Применение генераторов для асинхронного выполнения в последовательной форме ∙ Повышение быстродействия с использованием веб-работников, SIMD и asm.js ∙ Методы хронометража и оптимизации выражений и команд",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785446113132"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5446113136"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DQCfDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DQCfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=DQCfDwAAQBAJ&pg=PA253&dq=js&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=DQCfDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=DQCfDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 499,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 499,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=DQCfDwAAQBAJ&rdid=book-DQCfDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 499000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 499000000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DQCfDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "asm.<b>js</b> — название подмножества языка <b>JavaScript</b>, которое поддерживает очень высокую степень оптимизации. Код в стиле asm. <b>js</b>, тщательно избегающий некоторых плохо оптимизируемых механизмов и паттернов (уборка мусора,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZGGLDwAAQBAJ",
+      "etag": "Qwdv5IlHqdk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZGGLDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Vue.js в действии",
+        "authors": ["Хэнчетт Эрик", "Листуон Бенджамин"],
+        "publisher": "\"Издательский дом \"\"Питер\"\"\"",
+        "publishedDate": "2019-02-25",
+        "description": "Vue.js – это популярная библиотека для создания пользовательских интерфейсов. В ней значительно переосмыслены реактивные идеи, впервые появившиеся в React.js. Книга «Vue.js в действии» рассказывает о создании быстрых и эластичных пользовательских интерфейсов для Интернета. Освоив ее, вы напишете полноценное приложение для интернет-магазина, где будут присутствовать списки товаров, админка, а также организован полноценный процесс онлайнового заказа.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785446110988"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5446110986"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 304,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZGGLDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZGGLDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=ZGGLDwAAQBAJ&pg=PA21&dq=js&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZGGLDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZGGLDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1207,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 1207,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZGGLDwAAQBAJ&rdid=book-ZGGLDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1207000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 1207000000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Vue_js_%D0%B2_%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B8-sample-epub.acsm?id=ZGGLDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Vue_js_%D0%B2_%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B8-sample-pdf.acsm?id=ZGGLDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZGGLDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Как уже упоминалось, в ходе работы с примерами, представленными в книге, отличным подспорьем послужит официальное руководство Vue.<b>js</b>. Оно находится по адресу vuejs.org/v2/guide/ и постоянно обновляется. Ведется также список избранных&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MqRXAwAAQBAJ",
+      "etag": "QB4zj6zcpE0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MqRXAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Node.js Разработка серверных веб-приложений на JavaScript",
+        "authors": ["Дэвид Хэррон"],
+        "publisher": "Litres",
+        "publishedDate": "2022-01-12",
+        "description": "Книга посвящена разработке веб-приложений в Node.js – платформе, которая выводит язык JavaScript за пределы браузера и позволяет использовать его в серверных приложениях. В основе платформы лежит исключительно быстрый движок JavaScript, заимствованный из браузера Chrome, к которому добавлена быстрая и надежная библиотека асинхронного сетевого ввода/вывода. Основной упор в Node.js делается на создании высокопроизводительных, хорошо масштабируемых клиентских и серверных приложений.На практических примерах вы научитесь пользоваться серверным и клиентским объектами HTTP, каркасами Connect и Express, освоите алгоритмы асинхронного выполнения и узнаете, как работать с базами данных на основе SQL и с MongoDB.Начав с практических рекомендаций по установке и настройке Node.js в режиме разработки и эксплуатации, вы научитесь разрабатывать клиентские и серверные HTTP-приложения; познакомитесь с применяемой в Node.js системой организации модулей на основе спецификации CommonJS, позволяющей реализовать подмножество технологии объектно-ориентированного проектирования.Издание предназначено для программистов, знакомых с основами JavaScript и веб-разработки.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457573277"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457573273"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MqRXAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MqRXAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=MqRXAwAAQBAJ&pg=PA141&dq=js&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=MqRXAwAAQBAJ&dq=js&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Node_js_%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D1%81%D0%B5%D1%80%D0%B2%D0%B5.html?hl=&id=MqRXAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Node_js_%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0_%D1%81%D0%B5%D1%80%D0%B2%D0%B5-sample-pdf.acsm?id=MqRXAwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MqRXAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "addedit.html, шаблон, 124, 126 add, функция, 116, 118 allNotes функция, 119 app-connect.<b>js</b>, 81 app.<b>js</b>, 122, ... 111 обработчик статических файлов, 105 общее описание, 100 реализация, 101 ядро, 101 basicserver.<b>js</b>, файл, 101 51 bin, поле,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eOweEAAAQBAJ",
+      "etag": "CbdgYP/tlNs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eOweEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Node.js в действии. 2-е издание",
+        "authors": [
+          "Кантелон Майк",
+          "Хартер Марк",
+          "Головайчук TJ",
+          "Райлих Натан"
+        ],
+        "publisher": "\"Издательский дом \"\"Питер\"\"\"",
+        "publishedDate": "2018-04-17",
+        "description": "Второе издание «Node.js в действии» было полностью переработано, чтобы отражать реалии, с которыми теперь сталкивается каждый Node-разработчик. Вы узнаете о системах построения интерфейса и популярных веб-фреймворках Node, а также научитесь строить веб-приложения на базе Express с нуля. Теперь вы сможете узнать не только о Node и JavaScript, но и получить всю информацию, включая системы построения фронтэнда, выбор веб-фреймворка, работу с базами данных в Node, тестирование и развертывание веб-приложений. Технология Node все чаще используется в сочетании с инструментами командной строки и настольными приложениями на базе Electron, поэтому в книгу были включены главы, посвященные обеим областям.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785446108787"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5446108787"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eOweEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eOweEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=eOweEAAAQBAJ&pg=PA415&dq=js&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=eOweEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=eOweEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 979,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 979,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=eOweEAAAQBAJ&rdid=book-eOweEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 979000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 979000000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Node_js_%D0%B2_%D0%B4%D0%B5%D0%B9%D1%81%D1%82%D0%B2%D0%B8%D0%B8_2_%D0%B5_%D0%B8%D0%B7%D0%B4-sample-pdf.acsm?id=eOweEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eOweEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "public/foo.<b>js</b> с вызовом console. log(&#39;tobi&#39;) и сгенерируйте запрос для сервера. Для этого используйте команду curl(1) с флагом -i, задающим печать HTTP-заголовков. Вы увидите, что поля HTTP-заголовка, связанные с кэшем,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GrtLEAAAQBAJ",
+      "etag": "yPrVfdSe/q0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GrtLEAAAQBAJ",
+      "volumeInfo": {
+        "title": "{Вы пока еще не знаете JS} Область видимости и замыкания. 2-е межд. издание",
+        "authors": ["Симпсон Кайл"],
+        "publisher": "\"Издательский дом \"\"Питер\"\"\"",
+        "publishedDate": "2021-08-10",
+        "description": "Вы пока еще не знаете JS. И Кайл Симпсон признается, что тоже его не знает (по крайней мере полностью)... И никто не знает. Но все мы можем начать работать над тем, чтобы узнать его лучше. Сколько бы времени вы ни провели за изучением языка, всегда можно найти что-то еще, что стоит изучить и понять на другом уровне. Вы уже прочитали «Познакомьтесь, JavaScript»? Тогда откройте вторую книгу серии «Вы пока еще не знаете JS», чтобы познакомиться поближе с первым из трех столпов JavaScript — системой областей видимости и функциональными замыканиями, а также с мощным паттерном проектирования «Модуль». Пора освоить правила лексических областей видимости для размещения переменных и функций в правильных позициях. И заглянуть на более низкий уровень, ведь магия с хранением состояния модулей базируется на замыканиях, использующих систему лексических областей видимости.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785446118762"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5446118766"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GrtLEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GrtLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=GrtLEAAAQBAJ&pg=PA74&dq=js&hl=&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GrtLEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GrtLEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 840,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 840,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=GrtLEAAAQBAJ&rdid=book-GrtLEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 840000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 840000000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%92%D1%8B_%D0%BF%D0%BE%D0%BA%D0%B0_%D0%B5%D1%89%D0%B5_%D0%BD%D0%B5_%D0%B7%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_J-sample-epub.acsm?id=GrtLEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%92%D1%8B_%D0%BF%D0%BE%D0%BA%D0%B0_%D0%B5%D1%89%D0%B5_%D0%BD%D0%B5_%D0%B7%D0%BD%D0%B0%D0%B5%D1%82%D0%B5_J-sample-pdf.acsm?id=GrtLEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GrtLEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Консоль средств разработчика/REPL Вспомните, о чем говорилось в главе 1 книги «Познакомьтесь, <b>JavaScript</b>»: средства разработчика не создают полностью интегрированной среды <b>JS</b>. Они обрабатывают код <b>JS</b>, но также склоняются в пользу&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6_-eDwAAQBAJ",
+      "etag": "AowKRKlz2aQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6_-eDwAAQBAJ",
+      "volumeInfo": {
+        "title": "{Вы не знаете JS} Замыкания и объекты",
+        "authors": ["Симпсон Кайл"],
+        "publisher": "\"Издательский дом \"\"Питер\"\"\"",
+        "publishedDate": "2019-05-13",
+        "description": "Каким бы опытом программирования на JavaScript вы ни обладали, скорее всего, вы не понимаете язык в полной мере. Это лаконичное, но при этом глубоко продуманное руководство познакомит вас с областями видимости, замыканиями, ключевым словом this и объектами – концепциями, которые необходимо знать для более эффективного и производительного программирования на JS. Вы узнаете, как и почему они работают, и как замыкания могут стать эффективной частью вашего инструментария разработки. Как и в других книгах серии «Вы не знаете JS», здесь рассматриваются нетривиальные аспекты языка, от которых программисты JavaScript предпочитают держаться подальше. Вооружившись этими знаниями, вы достигнете истинного мастерства JavaScript. В КНИГЕ РАССМАТРИВАЮТСЯ СЛЕДУЮЩИЕ ТЕМЫ: ∙ Наборы правил, которые используются движком JavaScript для поиска переменных в коде ∙ Вложенные области видимости – наборы контейнеров для переменных и функций ∙ Области видимости на базе функций и блоков, поднятие, а также паттерны и преимущества сокрытия на базе областей видимости. ∙ Использование замыканий для решения синхронных и асинхронных задач, включая создание библиотек JavaScript ∙ Почему привязка this указывает на объекты в зависимости от того, как вызывается функция ∙ Природа объектов JS — почему нужно ссылаться на них ∙ Использование паттерна mixin для классов ∙ Переход от проектирования класса/наследования к делегированию поведения ∙ Как стиль OLOO (объекты, связанные с другими объектами) естественным образом реализует делегирование поведения",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785446112555"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5446112555"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6_-eDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6_-eDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=6_-eDwAAQBAJ&pg=PA4&dq=js&hl=&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6_-eDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6_-eDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 499,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 499,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6_-eDwAAQBAJ&rdid=book-6_-eDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 499000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 499000000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6_-eDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "УДК 004.738.5 С37 Симпсон К. С37 {Вы не знаете <b>JS</b>} Замыкания и объекты. — СПб.: Питер, 2019. — 336 с.: ил. — (Серия «Бестселлеры O&#39;Reilly»). ISBN 978-5-4461-1255-5 Каким бы опытом программирования на <b>JavaScript</b> вы ни обладали,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AQCfDwAAQBAJ",
+      "etag": "IjklkK0xUhk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AQCfDwAAQBAJ",
+      "volumeInfo": {
+        "title": "{Вы не знаете JS} Типы и грамматические конструкции",
+        "authors": ["Симпсон Кайл"],
+        "publisher": "\"Издательский дом \"\"Питер\"\"\"",
+        "publishedDate": "2019-05-13",
+        "description": "Каким бы опытом программирования на JavaScript вы ни обладали, скорее всего, вы не понимаете язык в полной мере. Это лаконичное руководство исследует типы более глубоко, чем все существующие книги: вы узнаете как работают типы, о проблемах их преобразования, и научитесь пользоваться новыми возможностями. Как и в других книгах серии «Вы не знаете JS», здесь рассматриваются нетривиальные аспекты языка, от которых программисты JavaScript предпочитают держаться подальше (или полагают, что они не существуют). Вооружившись этими знаниями, вы достигнете истинного мастерства JavaScript. В КНИГЕ РАССМАТРИВАЮТСЯ СЛЕДУЮЩИЕ ТЕМЫ: ∙ Семь типов данных JavaScript: null, undefined, boolean, number, string, object и symbol ∙ Уникальные особенности массивов, строк и чисел JavaScript, их достоинства и недостатки ∙ Встроенные объектные обертки для примитивных значений ∙ Странности преобразования типов и его полезность во многих ситуациях ∙ Различные нюансы синтаксиса JavaScript: команды, выражения и т.д.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785446112661"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5446112660"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AQCfDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AQCfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=AQCfDwAAQBAJ&pg=PA218&dq=js&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=AQCfDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=AQCfDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 550,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 550,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=AQCfDwAAQBAJ&rdid=book-AQCfDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 550000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 550000000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AQCfDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>JavaScript</b>. в. разных. средах. В этой книге были полностью рассмотрены многие базовые механизмы языка. Но при выходе вашего кода <b>JS</b> в реальный мир он может вести себя по-разному в разных условиях. Если <b>JS</b> выполняется исключительно&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jsJSEAAAQBAJ",
+      "etag": "xpEXh2K90ZY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jsJSEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Визуализация данных с помощью библиотеки D3.js 4.x",
+        "authors": ["Свизек Теллер", "Эндрю Рининсланд"],
+        "publisher": "Litres",
+        "publishedDate": "2022-01-13",
+        "description": "Книга знакомит с одной из самых распространенных и мощных библиотек визуализации данных – D3.js. Прочтя ее, вы сможете решить любую задачу: от создания визуализации с нуля до запуска ее на сервере и написания автоматизированных тестов.Издание предназначено разработчикам веб-приложений, специалистам по анализу и обработке данных и всем, интересующимся интерактивным представлением данных в вебе с помощью библиотеки D3.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785040915774"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5040915772"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jsJSEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jsJSEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=jsJSEAAAQBAJ&pg=PA28&dq=js&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=jsJSEAAAQBAJ&dq=js&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D1%81.html?hl=&id=jsJSEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%92%D0%B8%D0%B7%D1%83%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85_%D1%81-sample-pdf.acsm?id=jsJSEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jsJSEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "позволяет предотвратить странные ошибки, вызванные поднятием переменных (необычная особенность <b>JavaScript</b>, заключающаяся в том, что переменные интерпретируются в начале замыкания функции, а не там, где они фактически определены)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Od7y0D5chvAC",
+      "etag": "BnsTzmqngQE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Od7y0D5chvAC",
+      "volumeInfo": {
+        "title": "Backbone.Js Testing",
+        "authors": ["Ryan Roemer"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2013-01-01",
+        "description": "This book is packed with the step by step tutorial and instructions in recipe format helping you setup test infrastructure and gradually advance your skills to plan, develop, and test your backbone applications.If you are a JavaScript developer looking for recipes to create and implement test support for your backbone application, then this book is ideal for you.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781782165255"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1782165258"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 168,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Od7y0D5chvAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Od7y0D5chvAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=Od7y0D5chvAC&pg=PT61&dq=js&hl=&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Od7y0D5chvAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Od7y0D5chvAC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 596,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 536.4,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Od7y0D5chvAC&rdid=book-Od7y0D5chvAC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 596000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 536400000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Od7y0D5chvAC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&lt;/script&gt; &lt;script src:&quot;<b>js</b>/lib/backbone.<b>js</b>&quot;&gt; &lt;/script&gt; &lt;script src:&quot;<b>js</b>/lib/backbone. ... <b>JavaScript</b> Application Libraries ——&gt; &lt;script src:&quot;<b>js</b>/app/namespace.<b>js</b>&quot;&gt; &lt;/script&gt; &lt;script src:&quot;<b>js</b>/app/config.<b>js</b>&quot;&gt; &lt;/script&gt; &lt;script&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3FBbDwAAQBAJ",
+      "etag": "q6PcsL6Pa+E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3FBbDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Изучаем программирование на JavaScript",
+        "authors": ["Фримен Эрик", "Робсон Элизабет"],
+        "publisher": "\"Издательский дом \"\"Питер\"\"\"",
+        "publishedDate": "2018-04-23",
+        "description": "Вы готовы сделать шаг вперед в веб-программировании и перейти от верстки в HTML и CSS к созданию полноценных динамических страниц? Тогда пришло время познакомиться с самым «горячим» языком программирования — JavaScript! С помощью этой книги вы узнаете все о языке JavaScript — от переменных до циклов. Вы поймете, почему разные браузеры по-разному реагируют на код и как написать универсальный код, поддерживаемый всеми браузерами. Вам станет ясно, почему с кодом JavaScript никогда не придется беспокоиться о перегруженности страниц и ошибках передачи данных. Не пугайтесь, даже если ранее вы не написали ни одной строчки кода, — благодаря уникальному формату подачи материала эта книга с легкостью проведет вас по всему пути обучения: от написания простейшего скрипта до создания сложных веб-проектов, которые будут работать во всех современных браузерах. Особенностью этого издания является уникальный способ подачи материала, выделяющий серию «Head First» издательства O'Reilly в ряду множества скучных книг, посвященных программированию.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785446108930"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5446108930"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 640,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3FBbDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3FBbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=3FBbDwAAQBAJ&printsec=frontcover&dq=js&hl=&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3FBbDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3FBbDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 550,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 550,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3FBbDwAAQBAJ&rdid=book-3FBbDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 550000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 550000000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3FBbDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Вы готовы сделать шаг вперед в веб-программировании и перейти от верстки в HTML и CSS к созданию полноценных динамических страниц? ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nO9ZAgAAQBAJ",
+      "etag": "quIGf/qrhFQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nO9ZAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Pro Node.js for Developers",
+        "authors": ["Colin J. Ihrig"],
+        "publisher": "Apress",
+        "publishedDate": "2013-11-25",
+        "description": "Since it’s creation in 2009, Node.js has grown into a powerful and increasingly popular asynchronous-development framework for creating highly-scalable network applications using JavaScript. Respected companies such as Dow Jones and LinkedIn are among the many organizations to have seen Node’s potential and adopted it into their businesses. Pro Node.js for Developers provides a comprehensive guide to this exciting new technology. We introduce you to Node – what it is, why it matters and how to set it up – before diving deeply into the key concepts and APIs that underpin its operation. Building upon your existing JavaScript skills you’ll be shown how to use Node.js to build both Web- and Network-based applications, to deal with data sources, capture events and deal with child processes to create robust applications that will work well in a wide range of circumstances. Once you've mastered these skills we’ll go further, teaching you more advanced software engineering skills that will give your code a professional edge. You’ll learn how to create easily reusable modules that will save you time through code reuse, to log and debug your applications quickly and effectively and to write code that will scale easily and reliably as the demand for your application grows. What you’ll learn Install, configure and deploy Node.js apps effectively Understand the Node.js asynchronous programming model in detail Create both web and network-based Node.js applications with ease Learn to work effectively with varied data sources and file types Discover advanced software engineering concepts that will will save you time and promote code reuse Who this book is for This book is for developers who already have a working knowledge of JavaScript and are interested in adopting Node.js into their projects. All other concepts will be introduced from first-principals. Table of Contents Introducing Node.js The Node Module System The Event Loop Events Timers and Scheduling The Command Line Interface Accessing the File System Data Streams Binary Data Creating Child Processes Network Programming HTTP Server Development Connect Connecting to Databases Logging Application Scaling Appendix",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781430258605"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1430258608"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nO9ZAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nO9ZAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=nO9ZAgAAQBAJ&printsec=frontcover&dq=js&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=nO9ZAgAAQBAJ&dq=js&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pro_Node_js_for_Developers.html?hl=&id=nO9ZAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Pro_Node_js_for_Developers-sample-epub.acsm?id=nO9ZAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nO9ZAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "What you’ll learn Install, configure and deploy Node.js apps effectively Understand the Node.js asynchronous programming model in detail Create both web and network-based Node.js applications with ease Learn to work effectively with ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "834vAQAAMAAJ",
+      "etag": "V2xTa6QpA/k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/834vAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Milwaukee Area Necrology",
+        "publishedDate": "1995",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89065945685"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": ["Milwaukee (Wis.)"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=834vAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=834vAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=834vAQAAMAAJ&q=js&dq=js&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=834vAQAAMAAJ&dq=js&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Milwaukee_Area_Necrology.html?hl=&id=834vAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=834vAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... <b>JS</b> 12-13 6B MS 2-3 8A ; MJ 2-3 B4 <b>JS</b> 10-7 48 ; <b>JS</b> 10-8 6B <b>JS</b> 4-25 6B ; <b>JS</b> 4-26 6B <b>JS</b> 6-23 6B <b>JS</b> 4-28 6B <b>JS</b> 11-11 6B ; <b>JS</b> 11-12 6B <b>JS</b> 5-8 6B MS 1-25 8A ; MJ 1-25 BA ; MS 1-28 12A ; MJ 1-28 B4 <b>JS</b> 10-11 6B <b>JS</b> 9-26 6B ; <b>JS</b> 9-27 6B <b>JS</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e2dmDwAAQBAJ",
+      "etag": "Tp62LQOlHiQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e2dmDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Beginning API Development with Node.js",
+        "subtitle": "Build highly scalable, developer-friendly APIs for the modern web with JavaScript and Node.js",
+        "authors": ["Anthony Nandaa"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2018-07-24",
+        "description": "Learn everything you need to get up and running with cutting-edge API development using JavaScript and Node.js; ideal for data-intensive real-time applications that run across multiple platforms. Key Features Build web APIs from start to finish using JavaScript across the development stack Explore advanced concepts such as authentication with JWT, and running tests against your APIs Implement over 20 practical activities and exercises across 9 topics to reinforce your learning Book Description Using the same framework to build both server and client-side applications saves you time and money. This book teaches you how you can use JavaScript and Node.js to build highly scalable APIs that work well with lightweight cross-platform client applications. It begins with the basics of Node.js in the context of backend development, and quickly leads you through the creation of an example client that pairs up with a fully authenticated API implementation. By the end of the book, you’ll have the skills and exposure required to get hands-on with your own API development project. What you will learn Understand how Node.js works, its trends, and where it is being used now Learn about application modularization and built-in Node.js modules Use the npm third-party module registry to extend your application Gain an understanding of asynchronous programming with Node.js Develop scalable and high-performing APIs using hapi.js and Knex.js Write unit tests for your APIs to ensure reliability and maintainability Who this book is for This book is ideal for developers who already understand JavaScript and are looking for a quick no-frills introduction to API development with Node.js. Though prior experience with other server-side technologies such as Python, PHP, ASP.NET, Ruby will help, it’s not essential to have a background in backend development before getting started.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789534177"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1789534178"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=e2dmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=e2dmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=e2dmDwAAQBAJ&pg=PA5&dq=js&hl=&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=e2dmDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=e2dmDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 752.99,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 677.69,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=e2dmDwAAQBAJ&rdid=book-e2dmDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 752990000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 677690000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e2dmDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Build highly scalable, developer-friendly APIs for the modern web with <b>JavaScript</b> and Node.<b>js</b> Anthony Nandaa ... This chapter is designed to cover a few fundamental concepts in Node.<b>js</b>, as we lay a foundation for our subsequent chapters&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q87ADwAAQBAJ",
+      "etag": "Qn8pKReu5eY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q87ADwAAQBAJ",
+      "volumeInfo": {
+        "title": "Hands-On Machine Learning with TensorFlow.js",
+        "subtitle": "A guide to building ML applications integrated with web technology using the TensorFlow.js library",
+        "authors": ["Kai Sasaki"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2019-11-27",
+        "description": "Get hands-on with the browser-based JavaScript library for training and deploying machine learning models effectively Key Features Build, train and run machine learning models in the browser using TensorFlow.js Create smart web applications from scratch with the help of useful examples Use flexible and intuitive APIs from TensorFlow.js to understand how machine learning algorithms function Book Description TensorFlow.js is a framework that enables you to create performant machine learning (ML) applications that run smoothly in a web browser. With this book, you will learn how to use TensorFlow.js to implement various ML models through an example-based approach. Starting with the basics, you'll understand how ML models can be built on the web. Moving on, you will get to grips with the TensorFlow.js ecosystem to develop applications more efficiently. The book will then guide you through implementing ML techniques and algorithms such as regression, clustering, fast Fourier transform (FFT), and dimensionality reduction. You will later cover the Bellman equation to solve Markov decision process (MDP) problems and understand how it is related to reinforcement learning. Finally, you will explore techniques for deploying ML-based web applications and training models with TensorFlow Core. Throughout this ML book, you'll discover useful tips and tricks that will build on your knowledge. By the end of this book, you will be equipped with the skills you need to create your own web-based ML applications and fine-tune models to achieve high performance. What you will learn Use the t-SNE algorithm in TensorFlow.js to reduce dimensions in an input dataset Deploy tfjs-converter to convert Keras models and load them into TensorFlow.js Apply the Bellman equation to solve MDP problems Use the k-means algorithm in TensorFlow.js to visualize prediction results Create tf.js packages with Parcel, Webpack, and Rollup to deploy web apps Implement tf.js backend frameworks to tune and accelerate app performance Who this book is for This book is for web developers who want to learn how to integrate machine learning techniques with web-based applications from scratch. This book will also appeal to data scientists, machine learning practitioners, and deep learning enthusiasts who are looking to perform accelerated, browser-based machine learning on Web using TensorFlow.js. Working knowledge of JavaScript programming language is all you need to get started.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781838827878"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1838827870"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/contecccnt?id=Q87ADwAAQBAfvJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=Q87ADwAAQBAJ&pg=PA194&dq=js&hl=&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Q87ADwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Q87ADwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1984.99,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 1786.49,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Q87ADwAAQBAJ&rdid=book-Q87ADwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1984990000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 1786490000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q87ADwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A guide to building ML applications integrated with web technology using the TensorFlow.<b>js</b> library Kai Sasaki. The good thing about web browsers is that you don&#39;t need to care about managing the runtime. Once we&#39;ve installed the browser&nbsp;..."
+      }
+    }
+  ]
+}

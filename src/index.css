@@ -4,7 +4,7 @@
   border: none;
   box-sizing: border-box;
   font-size: 16px;
-  font-family: "Nunito", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 h1,
@@ -18,11 +18,20 @@ h6 {
   line-height: inherit;
 }
 
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  display: inline-block;
+}
+
 input {
   display: block;
 }
 
 #root {
-  /*background-color: tomato;*/
-  height: 100vh;
+  min-height: 100vh;
+  margin: 0 auto;
 }
