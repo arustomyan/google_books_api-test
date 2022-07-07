@@ -1,7 +1,7 @@
 import React from "react";
 import style from "./Header.module.css";
-import SortingSelect from "../shared/SortingSelect/SortingSelect";
-import SearchForm from "../shared/SearchForm/SearchForm";
+import { SortingSelect } from "../shared/SortingSelect/";
+import { SearchForm } from "../shared/SearchForm";
 
 function Header() {
   return (
@@ -26,4 +26,4 @@ function Header() {
   );
 }
 
-export default Header;
+export { Header };

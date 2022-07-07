@@ -1,7 +1,7 @@
 import React from "react";
 import books from "../../fakeData.json";
 import style from "./BooksList.module.css";
-import BookCard from "../shared/BookCard/BookCard";
+import { BookCard } from "../shared/BookCard";
 
 function BooksList() {
   const items = books.items;
@@ -15,4 +15,4 @@ function BooksList() {
   );
 }
 
-export default BooksList;
+export { BooksList };

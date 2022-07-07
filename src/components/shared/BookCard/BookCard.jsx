@@ -27,4 +27,4 @@ function BookCard({ item }) {
   );
 }
 
-export default BookCard;
+export { BookCard };

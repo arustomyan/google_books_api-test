@@ -14,4 +14,4 @@ function SortingSelect({ children }) {
   );
 }
 
-export default SortingSelect;
+export { SortingSelect };
