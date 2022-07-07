@@ -9,7 +9,7 @@
   justify-content: center;
   align-items: center;
   background-color: #9d9d9d;
-  width: 145px;
+  width: max-content;
   height: 205px;
   margin: 0 auto 30px;
 }
@@ -19,6 +19,10 @@
   height: 205px;
   width: auto;
   box-shadow: 0 6px 5px rgba(0, 0, 0, 0.24), 0 9px 18px rgba(0, 0, 0, 0.18);
+}
+
+.imageWrapper p {
+  padding: 0 20px;
 }
 
 .category {
