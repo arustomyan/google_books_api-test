@@ -1,9 +1,16 @@
 import React from "react";
 import style from "./BookCard.module.css";
 
+import { useNavigate } from "react-router-dom";
+
 function BookCard({ item }) {
+  const router = useNavigate();
+
   return (
-    <div className={style.component}>
+    <div
+      className={style.component}
+      onClick={() => router(`/detail/${item.id}`)}
+    >
       <div className={style.imageWrapper}>
         {!item.volumeInfo.imageLinks ? (
           <p>cover missing</p>

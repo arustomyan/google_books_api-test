@@ -1,13 +1,28 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 
 import style from "./BookDetails.module.css";
 import books from "../../fakeData.json";
+import { useParams } from "react-router-dom";
+import RestApi from "../../api/api";
 
 function BookDetails() {
-  const book = books.items[20];
+  const bookq = books.items[20];
+  const params = useParams();
+  // eslint-disable-next-line no-unused-vars
+  const [book, setBooks] = useState(bookq);
 
-  console.log(book);
+  const fetchBook = async () => {
+    return await RestApi.getBook(params.id);
+  };
 
+  useEffect(() => {
+    fetchBook().then((res) => {
+      setBooks(res);
+      console.log(res);
+    });
+  }, [params]);
+
+  console.log(params);
   return (
     <div className={style.component}>
       <div className={style.cover}>

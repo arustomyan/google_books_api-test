@@ -19,4 +19,14 @@ export default class RestApi {
       .then((response) => response.json())
       .catch((error) => console.log("error", error));
   }
+
+  static async getBook(id) {
+    return fetch(
+      `https://www.googleapis.com/books/v1/volumes/${id}?` +
+        // eslint-disable-next-line no-undef
+        `&key=${process.env.REACT_APP_API_KEY}`
+    )
+      .then((response) => response.json())
+      .catch((error) => console.log("error", error));
+  }
 }
