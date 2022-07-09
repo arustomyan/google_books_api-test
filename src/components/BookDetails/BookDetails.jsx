@@ -27,7 +27,7 @@ function BookDetails() {
         <p className={style.authors}>
           {book.volumeInfo.authors ? book.volumeInfo.authors[0] : ""}
         </p>
-        <p className={style.description}>{book.volumeInfo.description}</p>
+        <p>{book.volumeInfo.description}</p>
       </div>
     </div>
   );

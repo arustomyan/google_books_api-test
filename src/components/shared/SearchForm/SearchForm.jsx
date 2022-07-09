@@ -1,15 +1,28 @@
-import React from "react";
+import React, { useState } from "react";
 import style from "./SearchForm.module.css";
 
-function SearchForm() {
+function SearchForm({ onSubmit }) {
+  const [value, setValue] = useState("");
+
+  const handleChange = (e) => {
+    setValue(e.target.value);
+  };
+
+  const handleSubmit = (e) => {
+    e.preventDefault();
+    onSubmit(value);
+  };
+
   return (
-    <form
-      className={style.component}
-      onSubmit={(e) => {
-        e.preventDefault();
-      }}
-    >
-      <input type="text" name="search" className={style.input} />
+    <form className={style.component} onSubmit={handleSubmit}>
+      <input
+        type="text"
+        name="search"
+        placeholder={"search..."}
+        className={style.input}
+        value={value}
+        onChange={handleChange}
+      />
       <button className={style.button} type="submit">
         <svg width="30" height="30" viewBox="0 0 20 20">
           <path
