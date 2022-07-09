@@ -1681,6 +1681,71 @@
       "searchInfo": {
         "textSnippet": "A guide to building ML applications integrated with web technology using the TensorFlow.<b>js</b> library Kai Sasaki. The good thing about web browsers is that you don&#39;t need to care about managing the runtime. Once we&#39;ve installed the browser&nbsp;..."
       }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ldLjAwAAQBAJ",
+      "etag": "0aTkEfvagRM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ldLjAwAAQBAJ",
+      "volumeInfo": {
+        "title": "J. S. Bach The Goldberg Variations in Open Score",
+        "authors": ["Kendall Durelle Briggs"],
+        "publisher": "Lulu.com",
+        "publishedDate": "2012-08-01",
+        "description": "An open score edition of Bach's Goldberg Variations",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781105980718"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1105980715"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 126,
+        "printType": "BOOK",
+        "categories": ["Art"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ldLjAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ldLjAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=ldLjAwAAQBAJ&printsec=frontcover&dq=Bach+The+Goldberg+Variations+in+Open+Score&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=ldLjAwAAQBAJ&dq=Bach+The+Goldberg+Variations+in+Open+Score&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/J_S_Bach_The_Goldberg_Variations_in_Open.html?hl=&id=ldLjAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ldLjAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An open score edition of Bach&#39;s Goldberg Variations"
+      }
     }
   ]
 }

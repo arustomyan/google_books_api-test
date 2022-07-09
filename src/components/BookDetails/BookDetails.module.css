@@ -1,0 +1,67 @@
+.component {
+  max-width: 1280px;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.cover {
+  display: flex;
+  align-items: center;
+  min-width: 400px;
+  width: 45%;
+  background-color: #f3f2f1;
+  padding: 50px;
+}
+
+.imageWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #9d9d9d;
+  width: 65%;
+  height: fit-content;
+  margin: auto;
+}
+
+.image {
+  object-fit: contain;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.25);
+  flex: auto;
+}
+
+.details {
+  height: 100%;
+  max-width: 55%;
+  padding: 50px;
+  flex: auto;
+}
+
+.category {
+  font-weight: 400;
+  color: #9d9d9d;
+  margin-bottom: 40px;
+}
+
+.title {
+  font-weight: 600;
+  margin-bottom: 20px;
+  font-size: 24px;
+}
+
+.authors {
+  font-weight: 500;
+  font-size: 14px;
+  color: #9d9d9d;
+  text-decoration: underline;
+
+  margin-bottom: 35px;
+}
+
+.description {
+  min-height: 200px;
+  border: 1px solid #342;
+  padding: 20px;
+  font-weight: 500;
+}

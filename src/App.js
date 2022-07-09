@@ -1,12 +1,12 @@
 import React from "react";
 import { Header } from "./components/Header";
-import { BooksList } from "./components/BookList";
+import { BookDetails } from "./components/BookDetails/";
 
 function App() {
   return (
     <>
       <Header />
-      <BooksList />
+      <BookDetails />
     </>
   );
 }
