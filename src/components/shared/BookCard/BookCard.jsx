@@ -5,14 +5,14 @@ function BookCard({ item }) {
   return (
     <div className={style.component}>
       <div className={style.imageWrapper}>
-        {item.volumeInfo.imageLinks.thumbnail ? (
+        {!item.volumeInfo.imageLinks ? (
+          <p>cover missing</p>
+        ) : (
           <img
             className={style.image}
             src={item.volumeInfo.imageLinks.thumbnail}
             alt={`Cover of ${item.volumeInfo.title}`}
           />
-        ) : (
-          <p>cover missing</p>
         )}
       </div>
 

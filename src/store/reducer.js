@@ -2,6 +2,8 @@ import { createReducer } from "@reduxjs/toolkit";
 import {
   addBooks,
   addTotalItems,
+  changeCategories,
+  changeSorting,
   resetBookList,
   setIsSearching,
 } from "./action";
@@ -11,7 +13,7 @@ const initialState = {
   totalItems: 0,
   isSearching: false,
   categories: "",
-  sorting: "",
+  sorting: "relevance",
 };
 
 export default createReducer(initialState, {
@@ -26,5 +28,11 @@ export default createReducer(initialState, {
   },
   [setIsSearching]: function (state, action) {
     state.isSearching = action.payload;
+  },
+  [changeCategories]: function (state, action) {
+    state.categories = action.payload;
+  },
+  [changeSorting]: function (state, action) {
+    state.sorting = action.payload;
   },
 });
