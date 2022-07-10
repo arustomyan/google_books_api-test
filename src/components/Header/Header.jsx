@@ -11,15 +11,18 @@ import {
   setIsSearching,
 } from "../../store/action";
 import { useDispatch, useSelector } from "react-redux";
+import { useNavigate } from "react-router-dom";
 
 function Header() {
   const dispatch = useDispatch();
+  const router = useNavigate();
   const { categories, sorting } = useSelector((state) => state.queryApi);
 
   const onSubmit = (value) => {
     dispatch(resetBookList());
     dispatch(setIsSearching(true));
     dispatch(changeQuery(value));
+    router(`/`);
 
     value
       ? dispatch(fetchBooksRequest({ query: value, categories, sorting }))
