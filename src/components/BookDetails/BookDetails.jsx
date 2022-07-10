@@ -41,7 +41,9 @@ function BookDetails() {
             </a>
             <p className={style.title}>{book.volumeInfo.title}</p>
             <p className={style.authors}>
-              {book.volumeInfo.authors ? book.volumeInfo.authors[0] : ""}
+              {book.volumeInfo.authors
+                ? book.volumeInfo.authors.join(", ")
+                : ""}
             </p>
             <p className={style.description}>{book.volumeInfo.description}</p>
           </div>
