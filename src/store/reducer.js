@@ -3,6 +3,7 @@ import {
   addBooks,
   addTotalItems,
   changeCategories,
+  changeQuery,
   changeSorting,
   resetBookList,
   setIsLoadingBooks,
@@ -37,6 +38,9 @@ export default createReducer(initialState, {
   },
   [changeCategories]: function (state, action) {
     state.queryApi.categories = action.payload;
+  },
+  [changeQuery]: function (state, action) {
+    state.queryApi.query = action.payload;
   },
   [changeSorting]: function (state, action) {
     state.queryApi.sorting = action.payload;

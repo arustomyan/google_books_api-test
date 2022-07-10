@@ -11,8 +11,8 @@ export function* SearchBooksSaga(data) {
   try {
     yield put(setIsLoadingBooks(true));
     const response = yield RestApi.searchBooks(data.payload);
-    yield put(addBooks(response.items));
     yield put(addTotalItems(response.totalItems));
+    yield put(addBooks(response.items));
     yield put(setIsLoadingBooks(false));
   } catch (error) {
     console.log(error);

@@ -4,6 +4,7 @@ import { SortingSelect } from "../shared/SortingSelect/";
 import { SearchForm } from "../shared/SearchForm";
 import {
   changeCategories,
+  changeQuery,
   changeSorting,
   fetchBooksRequest,
   resetBookList,
@@ -18,6 +19,7 @@ function Header() {
   const onSubmit = (value) => {
     dispatch(resetBookList());
     dispatch(setIsSearching(true));
+    dispatch(changeQuery(value));
 
     value
       ? dispatch(fetchBooksRequest({ query: value, categories, sorting }))
