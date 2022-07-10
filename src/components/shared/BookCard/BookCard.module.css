@@ -1,7 +1,14 @@
 .component {
-  background-color: #eaf5f5;
+  background-color: #f3f2f1;
+  border-radius: 10px;
   min-width: 280px;
   padding: 30px 15px 15px;
+  transition: transform 0.3s;
+}
+
+.component:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 5px rgba(0, 0, 0, 0.24), 0 9px 18px rgba(0, 0, 0, 0.18);
 }
 
 .imageWrapper {
