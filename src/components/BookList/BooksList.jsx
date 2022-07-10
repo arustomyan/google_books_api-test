@@ -18,7 +18,7 @@ function BooksList() {
     <div className={style.component}>
       <>
         {!isSearching ? (
-          <p>Enter a search query</p>
+          <p className={style.homeLabel}>Enter a search query</p>
         ) : (
           <>
             {bookList.length && (
