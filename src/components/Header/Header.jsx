@@ -13,7 +13,7 @@ import { useDispatch, useSelector } from "react-redux";
 
 function Header() {
   const dispatch = useDispatch();
-  const { categories, sorting } = useSelector((state) => state);
+  const { categories, sorting } = useSelector((state) => state.queryApi);
 
   const onSubmit = (value) => {
     dispatch(resetBookList());

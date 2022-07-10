@@ -11,11 +11,15 @@ import {
 
 const initialState = {
   bookList: [],
+  queryApi: {
+    query: "",
+    startIndex: 0,
+    categories: "",
+    sorting: "relevance",
+  },
   totalItems: 0,
   isSearching: false,
   isLoadingBooks: false,
-  categories: "",
-  sorting: "relevance",
 };
 
 export default createReducer(initialState, {
@@ -32,10 +36,10 @@ export default createReducer(initialState, {
     state.isSearching = action.payload;
   },
   [changeCategories]: function (state, action) {
-    state.categories = action.payload;
+    state.queryApi.categories = action.payload;
   },
   [changeSorting]: function (state, action) {
-    state.sorting = action.payload;
+    state.queryApi.sorting = action.payload;
   },
   [setIsLoadingBooks]: function (state, action) {
     state.isLoadingBooks = action.payload;
