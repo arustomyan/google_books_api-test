@@ -11,7 +11,7 @@ function SortingSelect({ children, label, callback }) {
   };
 
   return (
-    <>
+    <div>
       <label htmlFor="categories" className={style.label}>
         {label}
       </label>
@@ -23,7 +23,7 @@ function SortingSelect({ children, label, callback }) {
       >
         {children}
       </select>
-    </>
+    </div>
   );
 }
 

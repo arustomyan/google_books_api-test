@@ -8,7 +8,28 @@
 }
 
 .label {
-  font-size: 72px;
+  font-size: 9vw;
   font-weight: 700;
   color: #fff;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  row-gap: 20px;
+  padding-top: 20px;
+  justify-content: center;
+}
+
+@media screen and (min-width: 800px) {
+  .label {
+    font-size: 72px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .label {
+    font-size: 36px;
+  }
 }

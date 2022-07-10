@@ -39,7 +39,7 @@ function Header() {
       <h1 className={style.label}>Search for books</h1>
       <SearchForm onSubmit={onSubmit} />
 
-      <div>
+      <div className={style.container}>
         <SortingSelect label={"Categories"} callback={handleCategories}>
           <option value="">all</option>
           <option value="art">Art</option>
