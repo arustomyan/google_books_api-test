@@ -2,7 +2,7 @@ import React from "react";
 import style from "./BooksList.module.css";
 import { BookCard } from "../shared/BookCard";
 import { useDispatch, useSelector } from "react-redux";
-import Loader from "../Loader/Loader";
+import Loader from "../shared/Loader/Loader";
 import { fetchBooksRequest } from "../../store/action";
 
 function BooksList() {

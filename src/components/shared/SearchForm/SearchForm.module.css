@@ -29,3 +29,6 @@
   cursor: pointer;
   overflow: hidden;
 }
+.button:focus-within {
+  background-color: #4d4d4d;
+}

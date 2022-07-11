@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import style from "./BookDetails.module.css";
 import { useParams } from "react-router-dom";
 import RestApi from "../../api/api";
-import Loader from "../Loader/Loader";
+import Loader from "../shared/Loader/Loader";
 
 function BookDetails() {
   const params = useParams();
