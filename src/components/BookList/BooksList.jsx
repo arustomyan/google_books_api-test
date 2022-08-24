@@ -21,7 +21,7 @@ function BooksList() {
           <p>Enter a search query</p>
         ) : (
           <>
-            {bookList.length && (
+            {Boolean(bookList.length) && (
               <>
                 <p className={style.totalItems}>
                   {totalItems ? `Found ${totalItems} result` : `Nothing found`}
