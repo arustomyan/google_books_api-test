@@ -60,5 +60,10 @@ export { BookDetails };
 const TestBlock = () => {
   const { bookList, totalItems, isSearching, isLoadingBooks, queryApi } =
     useSelector((state) => state);
-  return <div>Testc wedmew kwmd </div>;
+  return (
+    <div>
+      Testc wedmew kwmd{" "}
+      {(bookList, totalItems, isSearching, isLoadingBooks, queryApi)}
+    </div>
+  );
 };
