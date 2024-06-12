@@ -58,12 +58,6 @@ function BookDetails() {
 export { BookDetails };
 
 const TestBlock = () => {
-  const { bookList, totalItems, isSearching, isLoadingBooks, queryApi } =
-    useSelector((state) => state);
-  return (
-    <div>
-      Testc wedmew kwmd{" "}
-      {(bookList, totalItems, isSearching, isLoadingBooks, queryApi)}
-    </div>
-  );
+  const { queryApi } = useSelector((state) => state);
+  return <div>Testc wedmew kwmd {queryApi.sorting}</div>;
 };
