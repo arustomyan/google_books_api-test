@@ -3,6 +3,7 @@ import style from "./BookDetails.module.css";
 import { useParams } from "react-router-dom";
 import RestApi from "../../api/api";
 import Loader from "../Loader/Loader";
+import { useSelector } from "react-redux";
 
 function BookDetails() {
   const params = useParams();
@@ -45,6 +46,7 @@ function BookDetails() {
                 ? book.volumeInfo.authors.join(", ")
                 : ""}
             </p>
+            <TestBlock />
             <p className={style.description}>{book.volumeInfo.description}</p>
           </div>
         </>
@@ -54,3 +56,9 @@ function BookDetails() {
 }
 
 export { BookDetails };
+
+const TestBlock = () => {
+  const { bookList, totalItems, isSearching, isLoadingBooks, queryApi } =
+    useSelector((state) => state);
+  return <div>Testc wedmew kwmd </div>;
+};
